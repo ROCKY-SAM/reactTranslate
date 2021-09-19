@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,cAAe,CACf,WACF","file":"main.e782c71b.chunk.css","sourcesContent":[".App {\n  font-size: 18px;\n  margin: 30px;\n}\n\n"]}
