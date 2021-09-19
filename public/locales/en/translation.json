@@ -1,0 +1,19 @@
+{
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "gender":"Gender",
+    "size":"Size",
+    "small":"Small",
+    "medium":"Medium",
+    "large":"Large",
+    "about":"About",
+    "termAndConditions":"I agree to the Terms and Conditions",
+    "tellUsMore":"Tell us more about you...",
+    "submit":"Submit",
+    "male":"Male",
+    "female":"Female",
+    "other":"Other",
+    "address":"Address",
+    "phone":"Phone",
+    "description":"React-i18next<br><br>Based on the React i18n framework, react-i18next is another popular internationalization library which uses components to render or re-render the translated content of your application once users request a change of language.<br><br>This library is designed to allow the addition of new functionalities and accommodate changes with a wide range of plugins, configurations, and utilities. Detecting the user’s preferred languages, locale caching, loading the translated content from the backend server, and bundling the translations with a web pack are some of the functions performed by these plugins. "
+}
